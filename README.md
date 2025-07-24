@@ -6,6 +6,7 @@
     <title>CinemaPlus - Film Terbaru 2025</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.tailwindcss.com"></script>
+    <meta name="monetag" content="546d0a565ed4b5db43de656767d5dfd2">
     <style>
         :root {
             --primary: #E50914;
